@@ -10,7 +10,7 @@ import Foundation
 
 public struct Chain<Base>{
     public let base: Base
-    
+
     public init(_ base: Base) {
         self.base = base
     }
